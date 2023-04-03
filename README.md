@@ -17,4 +17,4 @@ Double-clicking the system tray icon will:
 
 Double-clicking a blank spot on the Desktop will also toggle Show/Hide of desktop icons.
 
-If anyone can reverse engineer this excellent work, we can build on it and keep it current and free like it was before.
+If anyone can reverse engineer this excellent work, we can build on it and keep it current and free like it was before. (https://web.archive.org/web/20180516162513/http://zardssoftware.ml:80/)
