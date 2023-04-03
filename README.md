@@ -5,4 +5,13 @@ It was originally hosted on zardssoftware.ml (which is offline now) and can be f
 
 The last known version was ShowHide 2.2, which is hosted here. 
 
+It is a single executable, portable (no dependencies), and has a system tray control panel that allows the user to do several things, such as:
+- choose if it starts with Windows
+- select a HotKey that can be used to toggle Show/Hide of desktop icons
+- disable/enable ShowHide
+
+Double-clicking the system tray icon will:
+- toggle Show/Hide of desktop icons 
+- change the system tray icon to reflect if icons are currently being Shown or Hidden
+
 If anyone can reverse engineer this excellent work, we can build on it and keep it current and free like it was before.
