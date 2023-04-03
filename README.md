@@ -1,5 +1,5 @@
 # ShowHide
-ShowHide is a limited Fences Alternative in that it allows you to "Show" or "Hide" your desktop icons. (No "fences" can be created with this, but I always used the show/hide feature WAY more anyway) A more complete Open Source Fences Alternative can be found here: https://github.com/Twometer/NoFences
+ShowHide is a limited Fences Alternative in that it allows you to "Show" or "Hide" your desktop icons. (No "fences" can be created with this, but I always used the show/hide feature WAY more anyway) An Open Source Fences Alternative that aims to recreate the "fences" feature can be found here (still under development): https://github.com/Twometer/NoFences
 
 It was originally hosted on zardssoftware.ml (which is offline now) and can be found in only a few online archives if you know EXACTLY what you're looking for.
 
