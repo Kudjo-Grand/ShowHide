@@ -15,4 +15,6 @@ Double-clicking the system tray icon will:
 - toggle Show/Hide of desktop icons 
 - change the system tray icon to reflect if icons are currently being Shown or Hidden
 
-If anyone can reverse engineer this excellent work, we can build on it and keep it current and free like it was before. Perhaps we could add in the ability to double-click a blank spot on the Desktop to toggle Show/Hide of desktop icons.
+Double-clicking a blank spot on the Desktop will also toggle Show/Hide of desktop icons.
+
+If anyone can reverse engineer this excellent work, we can build on it and keep it current and free like it was before.
